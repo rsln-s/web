@@ -11,5 +11,5 @@ I'm Computer Science PhD student with Clemson University. Before that, I've got 
 My research focusses around hypergraph algorithms, combinatorial optimization and large-scale computing.
 
 ### How can I be reached?
-Through any of the following networks:
+Through any of the following links:
 {{< socialLinks >}}
