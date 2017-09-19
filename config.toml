@@ -1,0 +1,36 @@
+baseurl = "http://example.org"
+title = "Ruslan Shaydulin"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+publishDir = "docs"
+
+[params]
+  description = '<!--[-->PhD student and coffee enthusiast<!--]--><br />
+                <!--[-->Clemson University School of Computing<!--]-->'
+  logoimage = "/rshaydu.png"
+  copyright = "Ruslan Shaydulin"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/rshaydu"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/rsln-s"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
+[languages.fr]
+languageName = "Français"
+weight = 2
+title = "Ruslan Shaydulin"
+description = '<!--[-->Étudiant en doctorat et cinéphile<!--]--><br />
+                <!--[-->Clemson University School of Computing<!--]-->'
