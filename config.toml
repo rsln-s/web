@@ -5,7 +5,6 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 disableKinds=["RSS"]
-publishDir = "docs"
 
 [params]
   description = '<!--[-->PhD student and coffee enthusiast<!--]--><br />
