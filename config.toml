@@ -1,4 +1,4 @@
-baseurl = "http://rsln-s.github.io/web"
+baseurl = "http://rsln-s.github.io/"
 title = "Ruslan Shaydulin"
 theme = "dimension"
 languageCode = "en-us"
