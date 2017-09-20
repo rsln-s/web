@@ -5,7 +5,7 @@ draft = false
 +++
 
 ### Who am I?
-I'm Computer Science PhD student with Clemson University. I work under the supervision of [Ilya Safro](https://people.cs.clemson.edu/~isafro/) in the [Algorithms and Computational Science Lab](https://people.cs.clemson.edu/~isafro/group.html). 
+I'm a PhD student in Computer Science at Clemson University. I work under the supervision of [Ilya Safro](https://people.cs.clemson.edu/~isafro/) in the [Algorithms and Computational Science Lab](https://people.cs.clemson.edu/~isafro/group.html). 
 
 Before that, I've received a Bachelors degree in Applied Mathematics and Physics from Moscow Institute of Physics and Technology (MIPT). 
 
