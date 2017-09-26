@@ -7,8 +7,9 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
+
   description = '<!--[-->PhD student and coffee enthusiast<!--]--><br />
-                <!--[-->Clemson University School of Computing<!--]-->'
+                <!--[-->@ Clemson University School of Computing<!--]-->'
   logoimage = "/images/rshaydu.png"
   copyright = "Ruslan Shaydulin"
 
