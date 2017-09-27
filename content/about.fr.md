@@ -6,15 +6,15 @@ draft = false
 
 ### Qui suis-je?
 
-Je suis un étudiant en doctorat en Informatique à Clemson University. Je travaille sous la supervision de [Ilya Safro](https://people.cs.clemson.edu/~isafro/) dans [Algorithms and Computational Science Lab](https://people.cs.clemson.edu/~isafro/group.html).
+Je suis un étudiant en doctorat en Informatique à Clemson University. Je travaille sous la supervision d'[Ilya Safro](https://people.cs.clemson.edu/~isafro/) dans [Le Laboratoire d'Algorithmes et Sciences numériques](https://people.cs.clemson.edu/~isafro/group.html).
 
-Avant ça, j'ai reçu un baccalauréat en Physique et en Mathématiques appliquées à partir de [Moscow Institute of Physics and Technology](https://mipt.ru/english/)
+Avant d'arriver à Clemson, j'ai reçu un baccalauréat en Physique et Mathématiques appliquées à [l'Institut de Physique et Technologie de Moscou](https://mipt.ru/english/)
 
 Voici mon [CV](https://www.dropbox.com/s/njayar01aww562f/Resume%20Tech%20Master.pdf).
 
 ### Que fais-je?
 
-Je recherche les algorithmes de la théorie des hypergraphes, l'optimisation combinatoire et calcul haute performance. Regardez mon [blog](http://blog.shaydul.in)!
+Je fais des recherches sur les algorithmes de la théorie des hypergraphes, l'optimisation combinatoire et le calcul haute performance. Voir mon [blog](http://blog.shaydul.in)!
 
 ### Contact
 
