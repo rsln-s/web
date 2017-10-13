@@ -10,6 +10,12 @@ draft = false
 
 Stay tuned!
 
+### Hypergraph Partitioning Archive
+##### Fall 2017, regularly updated
+An archive containing best known partitions for 490+ hypergraphs. Researchers are encouraged to submit their solutions. 
+
+[Webpage](http://shaydul.in/hypergraph-partitioning-archive/)
+
 ## Academic
 
 ### To Agile, or not to Agile: A Comparison of Software Development Methodologies
