@@ -6,9 +6,12 @@ draft = false
 
 ## Research
 
-### Coming soon: Algebraic distance on Hypergraphs
+### Relaxation-Based Coarsening for Multilevel Hypergraph Partitioning
+##### Submitted: Fall 2017
 
-Stay tuned!
+Multilevel hypergraph partitioning, as well as many other algorithms on hypergraphs, relies on a measure of similarity between vertices to make decisions. In hypergraph partitioning setting, the decision is which vertices to merge at the coarsening stage of the algorithm. In this paper we introduce a new vertex similarity measure, as well as a coarsening scheme using it. The effectiveness is demonstrated by comparing the perfromance with other state-of-the-art hypergraph partitioners on problems from the [Hypergraph Partitioning Archive](http://shaydul.in/hypergraph-partitioning-archive/)
+
+Submitted, available in [PDF on arXiv.org](https://arxiv.org/abs/1710.06552).
 
 ### Hypergraph Partitioning Archive
 ##### Fall 2017, regularly updated
