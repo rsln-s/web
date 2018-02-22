@@ -7,7 +7,7 @@ draft = false
 ## Research
 
 ### Aggregative Coarsening for Multilevel Hypergraph Partitioning
-##### Submitted: Spring 2018
+##### Submitted: Spring 2017
 
 Algorithms for many hypergraph problems, including partitioning, utilize multilevel frameworks to achieve a good trade-off between the performance and the quality of results. In this paper we introduce two novel aggregative coarsening schemes and incorporate them within state-of-the-art hypergraph partitioner Zoltan. Our coarsening schemes are inspired by the algebraic multigrid and stable matching approaches. We demonstrate the effectiveness of the developed schemes as a part of multilevel hypergraph partitioning framework on a wide range of problems. 
 
