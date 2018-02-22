@@ -6,6 +6,13 @@ draft = false
 
 ## Research
 
+### Aggregative Coarsening for Multilevel Hypergraph Partitioning
+##### Submitted: Spring 2018
+
+Algorithms for many hypergraph problems, including partitioning, utilize multilevel frameworks to achieve a good trade-off between the performance and the quality of results. In this paper we introduce two novel aggregative coarsening schemes and incorporate them within state-of-the-art hypergraph partitioner Zoltan. Our coarsening schemes are inspired by the algebraic multigrid and stable matching approaches. We demonstrate the effectiveness of the developed schemes as a part of multilevel hypergraph partitioning framework on a wide range of problems. 
+
+Submitted.
+
 ### Relaxation-Based Coarsening for Multilevel Hypergraph Partitioning
 ##### Submitted: Fall 2017
 
@@ -20,6 +27,13 @@ An archive containing best known partitions for 490+ hypergraphs. Researchers ar
 [Webpage](http://shaydul.in/hypergraph-partitioning-archive/)
 
 ## Academic
+
+### Python interpreter
+##### Fall 2018
+
+Implemented an interpreter of a subset of Python 2.7 from a yacc-able version of the full Python 2.7 grammar. Includes AST generator, type system, functions, recurison, scope management and more. <br>
+C++, flex, and bison. <br>
+For CPSC 8270 "Translation of programming languages".
 
 ### To Agile, or not to Agile: A Comparison of Software Development Methodologies
 ##### Spring 2017
