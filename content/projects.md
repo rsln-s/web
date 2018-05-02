@@ -7,18 +7,18 @@ draft = false
 ## Research
 
 ### Aggregative Coarsening for Multilevel Hypergraph Partitioning
-##### Submitted: Spring 2017
+##### Accepted: [SEA18](http://cs.gssi.it/sea2018/accepted.php)
 
 Algorithms for many hypergraph problems, including partitioning, utilize multilevel frameworks to achieve a good trade-off between the performance and the quality of results. In this paper we introduce two novel aggregative coarsening schemes and incorporate them within state-of-the-art hypergraph partitioner Zoltan. Our coarsening schemes are inspired by the algebraic multigrid and stable matching approaches. We demonstrate the effectiveness of the developed schemes as a part of multilevel hypergraph partitioning framework on a wide range of problems. 
 
-Submitted.
+Available in [PDF on arXiv.org](https://arxiv.org/abs/1802.09610)
 
 ### Relaxation-Based Coarsening for Multilevel Hypergraph Partitioning
 ##### Submitted: Fall 2017
 
 Multilevel hypergraph partitioning, as well as many other algorithms on hypergraphs, relies on a measure of similarity between vertices to make decisions. In hypergraph partitioning setting, the decision is which vertices to merge at the coarsening stage of the algorithm. In this paper we introduce a new vertex similarity measure, as well as a coarsening scheme using it. The effectiveness is demonstrated by comparing the performance with other state-of-the-art hypergraph partitioners on problems from the [Hypergraph Partitioning Archive](http://shaydul.in/hypergraph-partitioning-archive/)
 
-Submitted, available in [PDF on arXiv.org](https://arxiv.org/abs/1710.06552).
+Available in [PDF on arXiv.org](https://arxiv.org/abs/1710.06552).
 
 ### Hypergraph Partitioning Archive
 ##### Fall 2017, regularly updated
@@ -31,7 +31,7 @@ An archive containing best known partitions for 490+ hypergraphs. Researchers ar
 ### Python interpreter
 ##### Fall 2018
 
-Implemented an interpreter of a subset of Python 2.7 from a yacc-able version of the full Python 2.7 grammar. Includes AST generator, type system, functions, recurison, scope management and more. <br>
+Implemented an interpreter of a subset of Python 2.7 from a yacc-able version of the full Python 2.7 grammar. Includes AST generator, type system, functions, recursion, scope management and more. <br>
 C++, flex, and bison. <br>
 For CPSC 8270 "Translation of programming languages".
 
