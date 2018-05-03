@@ -28,6 +28,13 @@ An archive containing best known partitions for 490+ hypergraphs. Researchers ar
 
 ## Academic
 
+### Warping TensorFaces: Preprocessing Images for Multilinear Analysis of Facial Image Ensembles
+##### Spring 2018
+
+An exploratory study of using preprocessing to improve the quality of multilinear analysis of facial images for facial recognition. Multilinear analysis is motivated by the fact that images are results of multiple factors like light conditions, pose and expression. However, we are not able to observe these latent variables. Multilinear analysis takes advantage of tensor decomposition methods to utilize those hidden variables. In this project we use Active Appearance models to warp the training images before using them to train the model. This project is based on the paper [Multilinear image analysis for facial recognition by Vasilescu et al.](https://ieeexplore.ieee.org/abstract/document/1048350/)
+
+[Report (PDF)](/papers/tensorfaces.pdf), [Code on GitHub](https://github.com/rsln-s/tensorfaces) 
+
 ### Python interpreter
 ##### Fall 2018
 
