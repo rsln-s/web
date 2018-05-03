@@ -36,7 +36,7 @@ An exploratory study of using preprocessing to improve the quality of multilinea
 [Report (PDF)](/papers/tensorfaces.pdf), [Code on GitHub](https://github.com/rsln-s/tensorfaces) 
 
 ### Python interpreter
-##### Fall 2018
+##### Fall 2017
 
 Implemented an interpreter of a subset of Python 2.7 from a yacc-able version of the full Python 2.7 grammar. Includes AST generator, type system, functions, recursion, scope management and more. <br>
 C++, flex, and bison. <br>
