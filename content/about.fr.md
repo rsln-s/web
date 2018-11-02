@@ -14,7 +14,7 @@ Voici mon [CV](https://www.dropbox.com/s/njayar01aww562f/Resume%20Tech%20Master.
 
 ### Que fais-je?
 
-Je fais des recherches sur les algorithmes de la théorie des hypergraphes, l'optimisation combinatoire et le calcul haute performance. Voir mes [projets (EN)](http://shaydul.in/#projects)!
+Je fais des recherches sur les algorithmes de la théorie des hypergraphes, l'optimisation combinatoire et le calcul haute performance. 
 
 ### Contact
 

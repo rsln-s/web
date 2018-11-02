@@ -14,8 +14,6 @@ Here's my [CV](https://www.dropbox.com/s/njayar01aww562f/Resume%20Tech%20Master.
 ### What do I do?
 My research focusses around hypergraph algorithms, multiscale methods, combinatorial optimization and quantum computing. 
 
-Check out my [awesome projects](#projects)!
-
 ### How can I be reached?
 Through any of the following links:
 {{< socialLinks >}}
