@@ -12,7 +12,7 @@ Before that, I've received a Bachelors degree in Applied Mathematics and Physics
 Here's my [CV](https://www.dropbox.com/s/njayar01aww562f/Resume%20Tech%20Master.pdf).
 
 ### What do I do?
-My research focusses around hypergraph algorithms, multiscale methods, combinatorial optimization and quantum computing. 
+My research focusses around quantum optimization, hybrid quantum-classical algorithms, (hyper)graph algorithms, multiscale methods and combinatorial optimization in general (and so much more!). Check out my [Google Scholar](https://scholar.google.com/citations?user=PxOuGGcAAAAJ). 
 
 ### How can I be reached?
 Through any of the following links:

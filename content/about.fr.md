@@ -10,11 +10,11 @@ Je suis un étudiant en doctorat en Informatique à Clemson University. Je trava
 
 Avant d'arriver à Clemson, j'ai reçu un baccalauréat en Physique et Mathématiques appliquées à [l'Institut de Physique et Technologie de Moscou](https://mipt.ru/english/)
 
-Voici mon [CV](https://www.dropbox.com/s/njayar01aww562f/Resume%20Tech%20Master.pdf).
+Voici mon [CV \[EN\]](https://www.dropbox.com/s/njayar01aww562f/Resume%20Tech%20Master.pdf).
 
 ### Que fais-je?
 
-Je fais des recherches sur les algorithmes de la théorie des hypergraphes, l'optimisation combinatoire et le calcul haute performance. 
+Je fais des recherches sur calcul quantique, l'optimisation quantique, les algorithmes de la théorie des hypergraphes, l'optimisation combinatoire et le calcul haute performance. Voici mon [Google Scholar](https://scholar.google.com/citations?user=PxOuGGcAAAAJ&hl=fr). 
 
 ### Contact
 
