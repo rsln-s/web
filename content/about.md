@@ -9,7 +9,7 @@ I'm a PhD student in Computer Science at Clemson University. I work under the su
 
 Before that, I've received a Bachelors degree in Applied Mathematics and Physics from [Moscow Institute of Physics and Technology](https://mipt.ru/english/). 
 
-Here's my [CV](https://www.dropbox.com/s/njayar01aww562f/Resume%20Tech%20Master.pdf).
+Here's my [CV](https://www.dropbox.com/s/ahkty6n4uri2tg9/Resume%20Tech%20Master.pdf).
 
 ### What do I do?
 My research focusses around quantum optimization, hybrid quantum-classical algorithms, (hyper)graph algorithms, multiscale methods and combinatorial optimization in general (and so much more!). Check out my [Google Scholar](https://scholar.google.com/citations?user=PxOuGGcAAAAJ). 
