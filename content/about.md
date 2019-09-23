@@ -1,18 +1,29 @@
 +++
 title = "About me"
-weight = 40
+weight = 10
 draft = false
 +++
 
 ### Who am I?
-I'm a PhD student in Computer Science at Clemson University. I work under the supervision of [Ilya Safro](https://people.cs.clemson.edu/~isafro/) in the [Algorithms and Computational Science Lab](https://people.cs.clemson.edu/~isafro/group.html). 
+I'm a PhD candidate in Computer Science at Clemson University. I work under the supervision of [Ilya Safro](https://people.cs.clemson.edu/~isafro/) in the [Algorithms and Computational Science Lab](https://people.cs.clemson.edu/~isafro/group.html). 
 
-Before that, I've received a Bachelors degree in Applied Mathematics and Physics from [Moscow Institute of Physics and Technology](https://mipt.ru/english/). 
-
-Here's my [CV](https://www.dropbox.com/s/ahkty6n4uri2tg9/Resume%20Tech%20Master.pdf).
+Before that, I've received a Bachelors degree in Applied Mathematics and Physics from [Moscow Institute of Physics and Technology](https://mipt.ru/english/), with a minor in Computer Science and Data Analysis. 
 
 ### What do I do?
-My research focusses around quantum optimization, hybrid quantum-classical algorithms, (hyper)graph algorithms, multiscale methods and combinatorial optimization in general (and so much more!). Check out my [Google Scholar](https://scholar.google.com/citations?user=PxOuGGcAAAAJ). 
+My research focusses around the intersection between (hyper)graph problems, optimization, machine learning, quantum and high-performance computing. I have spent first two years of my PhD developing scalable multilevel algorithms for hypergraph partitioning. After spending a summer at Argonne National Laboratory I became fascinated with the potential of quantum computing. I have been working on developing near-term quantum algorithms for optimization and machine learning problems since then. 
+
+I am particualrly interested in variational and decomposition based hybrid quantum-classical algorithms. Over the years, I have had the pleasure of collaborating with some amazing people from IBM, Fujitsu and Argonne and Los Alamos National Laboratories.
+
+Check out my [CV](CV.pdf) or [Google Scholar](https://scholar.google.com/citations?user=PxOuGGcAAAAJ) to learn more about my work. Preprints of many of my papers are freely available on [arXiv](https://arxiv.org/a/shaydulin_r_1.html). 
+
+### What am I excited about?
+
+The potential of quantum computing to provide performance improvements in the post-Moore's law
+era (oof, a mouthful!). I am passionate about quantum computing and have led multiple tutorials and
+training sessions.
+
+There is still a long way from where we are today to useful quantum computing
+applications. I am excited to be a part of this journey.
 
 ### How can I be reached?
 Through any of the following links:

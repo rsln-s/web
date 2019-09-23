@@ -8,8 +8,7 @@ disableKinds=["RSS"]
 
 [params]
 
-  description = '<!--[-->PhD student and coffee enthusiast<!--]--><br />
-                <!--[-->Clemson University School of Computing<!--]-->'
+  description = '<!--[-->PhD candidate and coffee enthusiast<!--]--><br /><!--[-->Clemson University School of Computing<!--]-->'
   logoimage = "/images/rshaydu.png"
   copyright = "Ruslan Shaydulin"
 
@@ -17,11 +16,6 @@ disableKinds=["RSS"]
   medium = "telegram"
   icon = "telegram"
   link = "http://t.me/rsln_s"
-
-[[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "https://www.facebook.com/ruslan.shaidulin"
 
 [[params.social]]
   medium = "linkedin"
@@ -37,10 +31,3 @@ disableKinds=["RSS"]
 [languages.en]
 languageName = "English"
 weight = 1
-
-[languages.fr]
-languageName = "Français"
-weight = 2
-title = "Ruslan Shaydulin"
-description = '<!--[-->Doctorant et cinéphile<!--]--><br />
-                <!--[-->Clemson University School of Computing<!--]-->'
