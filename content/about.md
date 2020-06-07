@@ -10,11 +10,14 @@ I'm a PhD candidate in Computer Science at Clemson University. I work under the 
 Before that, I've received a Bachelors degree in Applied Mathematics and Physics from [Moscow Institute of Physics and Technology](https://mipt.ru/english/), with a minor in Computer Science and Data Analysis. 
 
 ### What do I do?
-My research focusses around the intersection between (hyper)graph problems, optimization, machine learning, quantum and high-performance computing. I have spent the first two years of my PhD developing scalable multilevel algorithms for hypergraph partitioning. After spending a summer at Argonne National Laboratory, I became fascinated with the potential of quantum computing. I have been working on developing near-term quantum algorithms for optimization and machine learning problems since then. 
+My research focuses on the intersection between (hyper)graph problems, optimization, machine learning, quantum and high-performance computing. I have spent the first two years of my PhD developing scalable multilevel algorithms for hypergraph partitioning. After spending a summer at Argonne National Laboratory, I became fascinated with the potential of quantum computing. I have been working on developing near-term quantum algorithms for optimization and machine learning problems since then, interning at NASA Ames (working with Salvatore Mandra, Stuart Hadfield and Tad Hogg) and IBM Research Quantum (working with Dmitri Maslov and Sergey Bravyi). 
 
-I am particularly interested in variational and decomposition based hybrid quantum-classical algorithms. Over the years, I have had the pleasure of collaborating with some amazing people from IBM, Fujitsu and Argonne and Los Alamos National Laboratories.
+I am particularly interested in variational and decomposition-based hybrid quantum-classical algorithms. Over the years, I have had the pleasure of collaborating with some amazing people from IBM, Fujitsu, NASA, University of Chicago, Illinois Institute of Technology, and Argonne and Los Alamos National Laboratories.
 
-Check out my [CV](CV.pdf) or [Google Scholar](https://scholar.google.com/citations?user=PxOuGGcAAAAJ) to learn more about my work. Preprints of many of my papers are freely available on [arXiv](https://arxiv.org/a/shaydulin_r_1.html). 
+I will be starting in August as Maria Goeppert Mayer fellow at Argonne National
+Laboratory.
+
+Check out my [CV](CV.pdf) or [Google Scholar](https://scholar.google.com/citations?user=PxOuGGcAAAAJ) to learn more about my work. Preprints of most of my papers are freely available on [arXiv](https://arxiv.org/a/shaydulin_r_1.html). 
 
 ### What am I excited about?
 
