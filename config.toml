@@ -8,7 +8,7 @@ disableKinds=["RSS"]
 
 [params]
 
-  description = '<!--[--> PhD candidate and coffee enthusiast <!--]--><br><!--[-->Clemson University School of Computing<!--]-->'
+  description = '<!--[--> Science and coffee enthusiast <!--]-->'
   logoimage = "/images/rshaydu.png"
   copyright = "Ruslan Shaydulin"
 

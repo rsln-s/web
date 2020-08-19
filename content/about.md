@@ -5,7 +5,8 @@ draft = false
 +++
 
 ### Who am I?
-I'm a PhD candidate in Computer Science at Clemson University. I work under the supervision of [Ilya Safro](https://people.cs.clemson.edu/~isafro/) in the [Algorithms and Computational Science Lab](https://people.cs.clemson.edu/~isafro/group.html). 
+
+I'm a quantum algorithms researcher. I have received my PhD in Computer Science from Clemson University in the group of [Ilya Safro](https://people.cs.clemson.edu/~isafro/) ([Algorithms and Computational Science Lab](https://people.cs.clemson.edu/~isafro/group.html)). 
 
 Before that, I've received a Bachelors degree in Applied Mathematics and Physics from [Moscow Institute of Physics and Technology](https://mipt.ru/english/), with a minor in Computer Science and Data Analysis. 
 
@@ -14,7 +15,7 @@ My research focuses on the intersection between (hyper)graph problems, optimizat
 
 I am particularly interested in variational and decomposition-based hybrid quantum-classical algorithms. Over the years, I have had the pleasure of collaborating with some amazing people from IBM, Fujitsu, NASA, University of Chicago, Illinois Institute of Technology, and Argonne and Los Alamos National Laboratories.
 
-I will be starting in August as Maria Goeppert Mayer fellow at Argonne National
+I will be starting in September as Maria Goeppert Mayer fellow at Argonne National
 Laboratory.
 
 Check out my [CV](CV.pdf) or [Google Scholar](https://scholar.google.com/citations?user=PxOuGGcAAAAJ) to learn more about my work. Preprints of most of my papers are freely available on [arXiv](https://arxiv.org/a/shaydulin_r_1.html). 
