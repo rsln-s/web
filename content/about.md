@@ -6,14 +6,14 @@ draft = false
 
 ### Who am I?
 
-I'm a quantum algorithms researcher. Currently, I am Maria Goeppert Mayer fellow at Argonne National Laboratory. I have received my PhD in Computer Science from Clemson University in the group of [Ilya Safro](https://people.cs.clemson.edu/~isafro/) ([Algorithms and Computational Science Lab](https://people.cs.clemson.edu/~isafro/group.html)). 
+I'm a quantum algorithms researcher. Currently, I am [Maria Goeppert Mayer fellow at Argonne National Laboratory](https://www.anl.gov/profile/ruslan-shaydulin). I have received my PhD in Computer Science from Clemson University in the group of [Ilya Safro](https://people.cs.clemson.edu/~isafro/) (Algorithms and Computational Science Lab). 
 
 Before that, I've received a Bachelors degree in Applied Mathematics and Physics from [Moscow Institute of Physics and Technology](https://mipt.ru/english/), with a minor in Computer Science and Data Analysis. 
 
 ### What do I do?
-My research focuses on the intersection between (hyper)graph problems, optimization, machine learning, quantum and high-performance computing. I have spent the first two years of my PhD developing scalable multilevel algorithms for hypergraph partitioning. After spending a summer at Argonne National Laboratory, I became fascinated with the potential of quantum computing. I have been working on developing near-term quantum algorithms for optimization and machine learning problems since then, interning at NASA Ames (working with Salvatore Mandra, Stuart Hadfield and Tad Hogg) and IBM Research Quantum (working with Dmitri Maslov and Sergey Bravyi). 
+My research focuses on the intersection between (hyper)graph problems, quantum optimization, machine learning, and general quantum and high-performance computing. I have spent the first two years of my PhD developing scalable multilevel algorithms for hypergraph partitioning. After spending a summer at Argonne National Laboratory, I became fascinated with the potential of quantum computing. I have been working on developing near-term quantum algorithms for optimization and machine learning problems since then, interning at NASA Ames (working with Salvatore Mandra, Stuart Hadfield and Tad Hogg) and IBM Research Quantum (working with Dmitri Maslov and Sergey Bravyi). 
 
-I am particularly interested in variational and decomposition-based hybrid quantum-classical algorithms. Over the years, I have had the pleasure of collaborating with some amazing people from IBM, Fujitsu, NASA, University of Chicago, Illinois Institute of Technology, and Argonne and Los Alamos National Laboratories.
+I am particularly interested in variational and decomposition-based hybrid quantum-classical algorithms for optimization and machine learning. Over the years, I have had the pleasure of collaborating with some amazing people from IBM, Fujitsu, NASA, University of Chicago, Illinois Institute of Technology, and Argonne and Los Alamos National Laboratories.
 
 Check out my [CV](CV.pdf) or [Google Scholar](https://scholar.google.com/citations?user=PxOuGGcAAAAJ) to learn more about my work. Preprints of most of my papers are freely available on [arXiv](https://arxiv.org/a/shaydulin_r_1.html). 
 
