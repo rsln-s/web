@@ -13,11 +13,6 @@ disableKinds=["RSS"]
   copyright = "Ruslan Shaydulin"
 
 [[params.social]]
-  medium = "telegram"
-  icon = "telegram"
-  link = "http://t.me/rsln_s"
-
-[[params.social]]
   medium = "linkedin"
   icon = "linkedin"
   link = "https://www.linkedin.com/in/rshaydu"
