@@ -1,13 +1,10 @@
 baseurl = "http://shaydul.in/"
 title = "Ruslan Shaydulin"
 theme = "dimension"
-languageCode = "en-us"
-defaultContentLanguage = "en"
 enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-
   description = '<!--[--> Science and coffee enthusiast <!--]-->'
   logoimage = "/images/rshaydu.png"
   copyright = "Ruslan Shaydulin"
