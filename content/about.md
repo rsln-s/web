@@ -6,7 +6,7 @@ draft = false
 
 ### Who am I?
 
-I'm a quantum algorithms researcher. Currently, I am a member of the [Future Lab for Applied Research and Engineering](https://www.jpmorgan.com/technology/flare) at JPMorgan Chase. 
+I'm a quantum algorithms researcher. Currently, I am a member of the [Global Technology Applied Research center](https://www.jpmorgan.com/technology/flare) at JPMorgan Chase. 
 
 Check out my [CV](CV.pdf) or [Google Scholar](https://scholar.google.com/citations?user=PxOuGGcAAAAJ) to learn more about my work. Preprints of most of my papers are freely available on [arXiv](https://arxiv.org/a/shaydulin_r_1.html). 
 
